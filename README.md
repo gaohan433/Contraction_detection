@@ -22,7 +22,7 @@ The repository contains the contraction-detection methods evaluated in the study
 
 
 
-\### `Methods\_except\_for\_ts2vec/`
+\### `Methods_except_for_ts2vec/`
 
 
 

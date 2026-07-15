@@ -84,6 +84,8 @@ TS2Vec was introduced in:
 
 > https://arxiv.org/abs/2106.10466
 
+Because TS2Vec training involves randomized training procedures, the results may differ slightly from those reported in the manuscript.
+
 Please refer to the original repository for additional implementation details and applicable licensing terms.
 
 

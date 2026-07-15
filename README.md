@@ -6,8 +6,8 @@ This repository supports the manuscript:
 
 
 
-\*\*“Enhancing Uterine Contraction Detection in Electromyometrial Imaging Based on Spatial Continuity of the Electric Field”\*\*
-
+“Enhancing Uterine Contraction Detection in Electromyometrial Imaging Based on Spatial Continuity of the Electric Field”
+> https://doi.org/10.1016/j.bspc.2026.110537
 
 
 The repository contains the contraction-detection methods evaluated in the study, the TS2Vec-based implementation, MATLAB scripts for statistical analysis and plotting, sample or processed data, and generated results.

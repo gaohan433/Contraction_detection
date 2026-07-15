@@ -10,7 +10,7 @@ This repository supports the manuscript:
 > https://doi.org/10.1016/j.bspc.2026.110537
 
 
-The repository contains the contraction-detection methods evaluated in the study, the TS2Vec-based implementation, MATLAB scripts for statistical analysis and plotting, sample or processed data, and generated results.
+The repository contains the contraction-detection methods evaluated in the study, MATLAB scripts for statistical analysis and plotting, sample or processed data, and generated results.
 
 
 
@@ -101,10 +101,6 @@ This folder contains the MATLAB scripts used for:
 \- Performance comparison
 
 \- Result visualization
-
-\- Figure generation
-
-
 
 MATLAB was used for statistical analysis and plotting in this study.
 

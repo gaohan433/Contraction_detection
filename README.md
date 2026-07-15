@@ -82,7 +82,7 @@ TS2Vec was introduced in:
 
 > \*Proceedings of the AAAI Conference on Artificial Intelligence\*. 2022.
 
-
+> https://arxiv.org/abs/2106.10466
 
 Please refer to the original repository for additional implementation details and applicable licensing terms.
 

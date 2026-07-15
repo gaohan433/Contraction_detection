@@ -6,7 +6,7 @@ This repository supports the manuscript:
 
 
 
-“Enhancing Uterine Contraction Detection in Electromyometrial Imaging Based on Spatial Continuity of the Electric Field”
+"Enhancing Uterine Contraction Detection in Electromyometrial Imaging Based on Spatial Continuity of the Electric Field"
 > https://doi.org/10.1016/j.bspc.2026.110537
 
 
@@ -36,9 +36,9 @@ The sample entropy method is based on the contraction-detection approach describ
 
 > Chen Z, Wang M, Zhang M, Huang W, Feng Y, Xu J.  
 
-> \*\*Automatic detection and characterization of uterine contraction using electrohysterography.\*\*  
+> "Automatic detection and characterization of uterine contraction using electrohysterography."  
 
-> \*Biomedical Signal Processing and Control\*. 2024;90:105840.  
+> Biomedical Signal Processing and Control. 2024.  
 
 > https://doi.org/10.1016/j.bspc.2023.105840
 
@@ -78,9 +78,9 @@ TS2Vec was introduced in:
 
 > Yue Z, Wang Y, Duan J, Yang T, Huang C, Tong Y, Xu B.  
 
-> \*\*TS2Vec: Towards Universal Representation of Time Series.\*\*  
+> "TS2Vec: Towards Universal Representation of Time Series."  
 
-> \*Proceedings of the AAAI Conference on Artificial Intelligence\*. 2022.
+> Proceedings of the AAAI Conference on Artificial Intelligence. 2022.
 
 > https://arxiv.org/abs/2106.10466
 

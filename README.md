@@ -10,7 +10,7 @@ This repository supports the manuscript:
 > https://doi.org/10.1016/j.bspc.2026.110537
 
 
-The repository contains the contraction-detection methods evaluated in the study, MATLAB scripts for statistical analysis and plotting, sample or processed data, and generated results.
+The repository contains the contraction-detection methods evaluated in the study, MATLAB scripts for statistical analysis and plotting, data, and generated results.
 
 
 
